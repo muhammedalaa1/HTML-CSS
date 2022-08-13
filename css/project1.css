@@ -30,7 +30,7 @@ ul {
 }
 /* Small */
 @media (min-width: 768px) {
-  .contatiner {
+  .container {
     width: 750px;
   }
 }
